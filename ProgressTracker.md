@@ -2,8 +2,7 @@
 
 ## 01. Basic Array Operations
 - [ ] [Find Maximum in an Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0)
-- [ ] Sum of the First N Numbers *(formula based, no link)*
-- [ ] [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
+- [ ] [Sum of the First N Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
 
 ## 02. Intermediate Array Problems
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
