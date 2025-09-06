@@ -1,7 +1,7 @@
 # 📊 Progress Tracker
 
 ## 01. Basic Array Operations
-- [x] [Find Maximum in an Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0)
+- [✅] [Find Maximum in an Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0)
 - [ ] [Sum of the First N Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
 
 ## 02. Intermediate Array Problems
