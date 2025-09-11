@@ -35,11 +35,11 @@ class Solution {
 
                 
                 if (sum < target) {
-                    left++; // need a bigger sum
+                    left++; 
                 } else if (sum > target) {
-                    right--; // need a smaller sum
+                    right--;
                 } else {
-                    return sum; // exact match found
+                    return sum; 
                 }
             }
         }
